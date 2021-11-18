@@ -4,6 +4,8 @@
 # MIDAS-Massive-Image-Data-Anatomy-Spine
 # Publications
 
+* Saenz-Gamboa, J. J., Domenech, J., Alonso-Manjarrez, A., Gómez, J. A., & de la Iglesia-Vayá, M. (2021). Automatic Semantic Segmentation of the Lumbar Spine. Clinical Applicability in a Multi-parametric and Multi-centre MRI study. href="https://arxiv.org/abs/2111.08712">ArXiv:2111.08712 [Cs, Eess].</a>
+ 
 * Saenz-Gamboa JJ, de la Iglesia-Vayá M, Gómez JA. Automatic semantic segmentation of structural elements related to the spinal cord in the lumbar region by using convolutional neural networks. In: 2020 25th International Conference on Pattern Recognition (ICPR). 2021. p. 5214–21. <a href="https://doi.org/10.1109/ICPR48806.2021.9412934">doi:10.1109/ICPR48806.2021.9412934.</a>
 
 * Saborit-Torres JM, Saenz-Gamboa JJ, Montell JÀ, Salinas JM, Gómez JA, Stefan I, ... & de la Iglesia-Vayá M. (2020). Medical imaging data structure extended to multiple modalities and anatomical regions. <a href="https://arxiv.org/abs/2010.00434v1">arXiv preprint arXiv:2010.00434 (2020).</a>
